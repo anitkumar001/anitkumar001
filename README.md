@@ -184,7 +184,7 @@ I believe the best way to learn technology is by building real projects and solv
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anit-kumar-516251277">
+<a href="https://www.linkedin.com/in/anit-kumar-nag-516251277/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
